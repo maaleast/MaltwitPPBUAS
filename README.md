@@ -1,6 +1,6 @@
 # uasapp
 
-A new Flutter project.
+Maltwit Mini Twiter Project
 
 ## Getting Started
 
